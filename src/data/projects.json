@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Outfit Store",
+    "imageSrc": "https://user-images.githubusercontent.com/91380941/229769911-813db0f5-375a-4242-a311-384c917c3c7b.png",
+    "description": "It is a clone of lifestylestore.com. It replicates the core functionalities and design of the original site, providing users with shopping experience while leveraging the power of React and Redux for enhanced state management and interactivity.",
+    "skills": ["React", "Redux", "chakra UI", "Node", "JSON"],
+    "demo": "https://outfitstore.vercel.app",
+    "source": "https://github.com/SurajV2000/unusual-bath-4203"
+  },
+  {
+    "title": "Flipkart Clone",
+    "imageSrc": "https://user-images.githubusercontent.com/107460950/263445261-f4f1cdc9-b36e-427d-956c-35e0f1c3decc.png",
+    "description": "An e-commerce website where you can Discover an expansive collection of products that cater to every need and preference.",
+    "skills": ["React", "Redux", "Express", "Node", "MongoDB", "MIUI"],
+    "demo": "https://incredible-basbousa-7d2a10.netlify.app/",
+    "source": "https://github.com/Nitinjambal/Flipkart_Website"
+  },
+  {
+    "title": "UrbanCompany Clone",
+    "imageSrc": "https://camo.githubusercontent.com/e3811626419fb37ce7b00a08f127283f9c75c0d45c8141b1e2a6d146db0c5fd6/68747470733a2f2f692e706f7374696d672e63632f595348634a4e73672f332e6a7067",
+    "description": "Website designed for providing services like cleaning and grooming at your doorsteps.",
+    "skills": ["HTML", "CSS", "JavaScript", "Bootstrap"],
+    "demo": "https://stupendous-raindrop-84d1d0.netlify.app",
+    "source": "https://github.com/shubhambhole99/UrbanCompany"
+  },
+  {
+    "title": "HindustanTimes Clone",
+    "imageSrc": "https://user-images.githubusercontent.com/106021674/209839565-9d73c2c3-248e-47db-9877-34e1ba5cdcc4.png",
+    "description": "Hindutsan time clone Hindustan Times ePaper is a digital version of the Hindustan Times newspaper, one of India's leading English-language dailies. It provides comprehensive coverage of national and international news, politics, business, sports, entertainment, and other topics. The ePaper allows readers to access the newspaper's content online",
+    "skills": ["HTML", "CSS", "JavaScript"],
+    "demo": "https://hindustan-time.vercel.app",
+    "source": "https://github.com/Sahil9214/HindustanTime"
+  },
+  {
+    "title": "Task management",
+    "imageSrc": "https://user-images.githubusercontent.com/107460950/263449315-60493c3e-57f9-4197-96eb-579642a9870a.png",
+    "description": "Task management keeps track of everything you need to do, allowing you to focus on what truly matters. empowers you to organize your life with precision and efficiency.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Chakra UI", "JWT"],
+    "demo": "https://rainbow-biscochitos-94c8d8.netlify.app",
+    "source": "https://github.com/Nitinjambal/Task-management"
+  }
+]
