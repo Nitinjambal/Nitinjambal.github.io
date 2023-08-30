@@ -26,7 +26,7 @@
   {
     "title": "HindustanTimes Clone",
     "imageSrc": "https://user-images.githubusercontent.com/106021674/209839565-9d73c2c3-248e-47db-9877-34e1ba5cdcc4.png",
-    "description": "Hindutsan time clone Hindustan Times ePaper is a digital version of the Hindustan Times newspaper, one of India's leading English-language dailies. It provides comprehensive coverage of national and international news, politics, business, sports, entertainment, and other topics. The ePaper allows readers to access the newspaper's content online",
+    "description": "It is a digital version of the Hindustan Times newspaper, one of India's leading English-language paper, provides comprehensive coverage of national and international news and allows readers to access the newspaper's content online.",
     "skills": ["HTML", "CSS", "JavaScript"],
     "demo": "https://hindustan-time.vercel.app",
     "source": "https://github.com/Sahil9214/HindustanTime"
