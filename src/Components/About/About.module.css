@@ -17,6 +17,9 @@
   font-weight: 700;
   letter-spacing: 1.75px;
   text-transform: uppercase;
+  text-align: center;
+  border-bottom: 3px dotted white;
+
 }
 
 .content {
@@ -84,6 +87,12 @@
 
   .aboutItems {
     margin-top: 29px;
+  }
+
+  .title {
+    font-size: 30px;
+    text-align: center;
+    border-bottom: 3px dotted white;
   }
 
   .aboutItem {

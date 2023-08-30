@@ -144,13 +144,23 @@
 
   .content {
     width: 80%;
+    display: flex;
+    text-align: center;
+    align-items: center;
   }
 
   .title {
     font-size: 35px;
+    display: flex;
+    margin-top: 20px;
+    text-align: center;
   }
   .contactBtn {
     font-size: 20px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
   }
 
   .description {
